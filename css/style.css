@@ -100,3 +100,30 @@
   padding: 0;
   margin: 0.5%;
 }
+
+.row2{
+  width: auto;
+  margin-left: 0;
+  margin-right: 0;
+  max-height: 50px;
+  width: 100%
+  border-style: solid;
+}
+.img1{
+  padding: 0;
+  margin: 0;
+  width: 30%;
+  margin-left: 0.5%;
+}
+.img2{
+  padding: 0;
+  margin: 0;
+  width: 30%;
+  margin-left: 320%;
+}
+.img3{
+  padding: 0;
+  margin: 0;
+  width: 30%;
+  margin-left:66%;
+}
